@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.license      = 'Public Domain'
   s.author       = { "Andy Kim" => "andy@potionfactory.com" }
 
-  s.platform     = :osx, '10.6'
+  s.platform     = :osx, '10.10'
 
   s.source = {
     :git => "https://github.com/potionfactory/LetsMove.git",
